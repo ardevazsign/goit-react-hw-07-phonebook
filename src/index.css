@@ -7,8 +7,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: aqua;
- 
+  margin: 100px;
+  background-color: gainsboro;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 code {
